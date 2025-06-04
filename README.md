@@ -1,1 +1,2 @@
 # Waste-Classification-project-
+Dataset Link - "https://www.kaggle.com/datasets/farzadnekouei/trash-type-image-dataset"
