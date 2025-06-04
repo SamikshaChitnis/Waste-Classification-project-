@@ -9,7 +9,9 @@ This project is about classifying waste images into different categories using a
 
 # Algorithm and Technology it is using :
 Algorithm: Convolutional Neural Network (CNN)
+
 Frameworks/Libraries: TensorFlow, Keras
+
 Techniques: Image preprocessing, data augmentation, supervised learning
 
 # Model Performance Graphs
